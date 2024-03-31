@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArifAzizBd
+- 👋 Hi, I’m @ArifAziz
 - 👀 I’m interested in pen-testing
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on cybersecurity
